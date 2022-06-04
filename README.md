@@ -1,3 +1,3 @@
-<h1 align="center">Projeto da dev em dobro feito!</h1>
+<h1 align="center">Projeto Marvel seleção de personagens da dev em dobro </h1>
 
-![img](src/imagens/readme.pn)
+![img](https://github.com/MatheusdeSouzaSilva70/Projeto-Marvel-sele--o-personagem/blob/main/img/Projeto-Marvel.png)
